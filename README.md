@@ -122,6 +122,6 @@ Service Level Agreements (SLAs) are used to define and enforce response and reso
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Help Topics are used to categorize incoming tickets based on the type of issue or request. They improve ticket organization, automate workflow, and streamline support processes from the moment a ticket is created. Help Topics organize Ticket Categorization, Automation of Ticket Handling, Customized User Experience, Routing & Escalation, Reporting & Metrics.
 </p>
 <br />
