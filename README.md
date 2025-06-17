@@ -42,7 +42,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-  ![screenshot 2](https://github.com/user-attachments/assets/9e562f8b-81a9-4bbb-8590-b3423fc2bded)
+ ![image](https://github.com/user-attachments/assets/b91d329b-f16e-40bf-aa0a-b7da5b05786f)
+
+ ![screenshot 2](https://github.com/user-attachments/assets/9e562f8b-81a9-4bbb-8590-b3423fc2bded)
 
 </p>
 <p>
@@ -52,7 +54,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-  ![screenshot 3](https://github.com/user-attachments/assets/baf3ed2f-f9ba-4156-917f-d88d7dfd8b40)
+ ![image](https://github.com/user-attachments/assets/9f54853d-63cf-44af-86d3-277166906bcc)
+
+ ![screenshot 3](https://github.com/user-attachments/assets/baf3ed2f-f9ba-4156-917f-d88d7dfd8b40)
 
 </p>
 <p>
