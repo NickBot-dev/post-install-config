@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Roles are used to Define Permissions and control what actions staff members (agents) can perform within the system. They ensure Secure and Efficient Helpdesk Operations by assigning the Right Level of Access to the Right Users. 
+Roles are used to Define Permissions & control what actions staff members (agents) can perform within the system. They ensure Secure & Efficient Helpdesk Operations by assigning the Right Level of Access to the Right Users. 
 </p>
 <br />
 
@@ -51,7 +51,7 @@ Roles are used to Define Permissions and control what actions staff members (age
 
 </p>
 <p>
-Departments play a crucial organizational role in managing support tickets efficiently. They ensure Organizational Structure, Ticket Routing, Access Control and Visibility, Automation Rules, Reporting and Analytics, Customization and Autoresponses.
+Departments play a crucial organizational role in managing support tickets efficiently. They ensure Organizational Structure, Ticket Routing, Access Control & Visibility, Automation Rules, Reporting & Analytics, Customization & Autoresponses.
 
 
 </p>
@@ -66,7 +66,7 @@ Departments play a crucial organizational role in managing support tickets effic
 
 </p>
 <p>
-Teams serve a different but complementary purpose to Departments. While departments organize tickets by category or function, Teams are used to manage agent collaboration across departments. Teams provide Cross-Department Collaboration, Granular Agent Assignment, Permission and Access Management, Workload Distribution, and Improved Collaboration. 
+Teams serve a different but complementary purpose to Departments. While departments organize tickets by category or function, Teams are used to manage agent collaboration across departments. Teams provide Cross-Department Collaboration, Granular Agent Assignment, Permission & Access Management, Workload Distribution, & Improved Collaboration. 
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Teams serve a different but complementary purpose to Departments. While departme
 
 </p>
 <p>
-Users are the individuals who create support tickets — typically your customers, clients, or end-users. They are the ones seeking help, not the staff responding to tickets. Users can Submit Support Requests, Track Ticket Status, Receive Notifications, and have User Profiles & History. 
+Users are the individuals who create support tickets — typically your customers, clients, or end-users. They are the ones seeking help, not the staff responding to tickets. Users can Submit Support Requests, Track Ticket Status, Receive Notifications, & have User Profiles & History. 
 
 
 </p>
@@ -93,7 +93,9 @@ Users are the individuals who create support tickets — typically your customer
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Agents (Staff Members) are the people who manage and respond to support tickets or internal support personnel. The primary purposes of Agents is Responding to Tickets, Ticket Management, User Support & Respectful Communication, Departmental Roles, Permissions / Access Control, & Internal Collaboration.
+
+
 </p>
 <br />
 
