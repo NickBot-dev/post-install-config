@@ -77,7 +77,9 @@ Teams serve a different but complementary purpose to Departments. While departme
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Users are the individuals who create support tickets — typically your customers, clients, or end-users. They are the ones seeking help, not the staff responding to tickets. Users can Submit Support Requests, Track Ticket Status, Receive Notifications, and have User Profiles & History. 
+
+
 </p>
 <br />
 
