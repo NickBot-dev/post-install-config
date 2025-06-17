@@ -108,7 +108,7 @@ Users are the individuals who create support tickets — typically your customer
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Service Level Agreements (SLAs) are used to define and enforce response and resolution timeframes for support tickets. They help ensure that tickets are addressed within acceptable time limits, improving accountability and customer satisfaction. The purposes of SLAs consist of Time-Based Expectations, Prioritization, Automation & Escalation, & Performance Tracking.
 </p>
 <br />
 
