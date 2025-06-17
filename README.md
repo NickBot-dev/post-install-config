@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Teams / Team Members / Level of Privelage 
 - Users / User Settings
 - Agents / Agent Settings / Level of Privelage
-- Configure Service Level Agreements (SLA)
+- Configure Service Level Agreements (SLAs)
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
