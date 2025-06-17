@@ -66,7 +66,7 @@ Departments play a crucial organizational role in managing support tickets effic
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Teams serve a different but complementary purpose to Departments. While departments organize tickets by category or function, Teams are used to manage agent collaboration across departments. Teams provide Cross-Department Collaboration, Granular Agent Assignment, Permission and Access Management, Workload Distribution, and Improved Collaboration. 
 </p>
 <br />
 
