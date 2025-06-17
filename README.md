@@ -40,9 +40,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+
 <p>
 
- ![image](https://github.com/user-attachments/assets/b91d329b-f16e-40bf-aa0a-b7da5b05786f)
+ ![image](https://github.com/user-attachments/assets/4d84cc60-823c-4801-99da-a1e3f1f39205)
 
  ![screenshot 2](https://github.com/user-attachments/assets/9e562f8b-81a9-4bbb-8590-b3423fc2bded)
 
@@ -51,6 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
 
 <p>
 
@@ -64,9 +66,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+
 <p>
 
-  ![screenshot 4](https://github.com/user-attachments/assets/75ddf743-5c59-4766-b7ea-e771fdf35aae)
+ ![screenshot 4](https://github.com/user-attachments/assets/75ddf743-5c59-4766-b7ea-e771fdf35aae)
 
 </p>
 <p>
@@ -74,9 +77,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+
 <p>
 
-  ![scrnshot 5](https://github.com/user-attachments/assets/39b76893-1eb0-4153-9f27-4390dd2ad0f6)
+ ![scrnshot](https://github.com/user-attachments/assets/ea3dbdd6-a09a-4022-bd59-c38dea5d4a87)
+ 
+ ![scrnshot 6x](https://github.com/user-attachments/assets/729fe0b5-f22b-444e-aae9-8fe9991737ec)
+
 
 </p>
 <p>
@@ -84,7 +91,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+
 <p>
+ 
+ ![image](https://github.com/user-attachments/assets/adb7be17-b6f7-43e1-b4c4-cb478cd5c384)
 
  ![scrnshot 6](https://github.com/user-attachments/assets/d7b567c3-e746-4cfe-aaf6-6b817d455f56)
 
@@ -94,19 +104,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-
-  ![scrnshot 7](https://github.com/user-attachments/assets/d65cbff6-a567-4d0b-b304-99fcb2a5b9c1)
-
-</p>
-<p>
-
-</p>
-<br />
 
 <p>
+
+ ![scrnshot 7](https://github.com/user-attachments/assets/d65cbff6-a567-4d0b-b304-99fcb2a5b9c1)
 
  ![scrnshot 8](https://github.com/user-attachments/assets/356f3a0f-712f-4427-94d2-7f3d4a0cbc56)
+
 
 </p>
 <p>
