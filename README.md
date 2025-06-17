@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Roles are used to define permissions and control what actions staff members (agents) can perform within the system. They ensure secure and efficient helpdesk operations by assigning the right level of access to the right users. 
 </p>
 <br />
 
