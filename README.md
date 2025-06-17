@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-  ![scrnshot 5](https://github.com/user-attachments/assets/39b76893-1eb0-4153-9f27-4390dd2ad0f6)
+ ![scrnshot 6](https://github.com/user-attachments/assets/d7b567c3-e746-4cfe-aaf6-6b817d455f56)
 
 </p>
 <p>
@@ -92,17 +92,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-  ![scrnshot 5](https://github.com/user-attachments/assets/39b76893-1eb0-4153-9f27-4390dd2ad0f6)
+  ![scrnshot 7](https://github.com/user-attachments/assets/d65cbff6-a567-4d0b-b304-99fcb2a5b9c1)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
 
-  ![scrnshot 5](https://github.com/user-attachments/assets/39b76893-1eb0-4153-9f27-4390dd2ad0f6)
+ ![scrnshot 8](https://github.com/user-attachments/assets/356f3a0f-712f-4427-94d2-7f3d4a0cbc56)
 
 </p>
 <p>
