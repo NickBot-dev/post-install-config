@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Roles are used to define permissions and control what actions staff members (agents) can perform within the system. They ensure secure and efficient helpdesk operations by assigning the right level of access to the right users. 
+Roles are used to Define Permissions and control what actions staff members (agents) can perform within the system. They ensure Secure and Efficient Helpdesk Operations by assigning the Right Level of Access to the Right Users. 
 </p>
 <br />
 
@@ -51,7 +51,9 @@ Roles are used to define permissions and control what actions staff members (age
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Departments play a crucial organizational role in managing support tickets efficiently. They ensure Organizational Structure, Ticket Routing, Access Control and Visibility, Automation Rules, Reporting and Analytics, Customization and Autoresponses.
+
+
 </p>
 <br />
 
