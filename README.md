@@ -45,7 +45,7 @@ Roles are used to Define Permissions & control what actions staff members (agent
 
 <p>
 
- ![image](https://github.com/user-attachments/assets/4d84cc60-823c-4801-99da-a1e3f1f39205)
+ ![scrnshot 11](https://github.com/user-attachments/assets/755843e1-e989-42de-ad2d-41055b36554e)
 
  ![screenshot 2](https://github.com/user-attachments/assets/9e562f8b-81a9-4bbb-8590-b3423fc2bded)
 
