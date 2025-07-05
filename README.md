@@ -12,23 +12,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure Virtual Machine
+- Remote Desktop Connection
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure the roles of Agents
-- Departments / Department Settings
-- Teams / Team Members / Level of Privelage 
-- Users / User Settings
-- Agents / Agent Settings / Level of Privelage
+- Create Departments / Department Settings
+- Create Teams / Team Members / Level of Privelage 
+- Create Users / User Settings
+- Configure Agents / Agent Settings / Level of Privelage
 - Configure Service Level Agreements (SLAs)
-- Configure Help Topics
+- Create Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Roles are used to Define Permissions & control what actions staff members (agents) can perform within the system. They ensure Secure & Efficient Helpdesk Operations by assigning the Right Level of Access to the Right Users. 
+Roles are used to define permissions & control the actions that Agents (staff members) can perform within the system. They ensure Secure & Efficient Helpdesk Operations by assigning the necessary level of access to users. 
 </p>
 <br />
 
@@ -51,7 +51,7 @@ Roles are used to Define Permissions & control what actions staff members (agent
 
 </p>
 <p>
-Departments play a crucial organizational role in managing support tickets efficiently. They ensure Organizational Structure, Ticket Routing, Access Control & Visibility, Automation Rules, Reporting & Analytics, Customization & Autoresponses.
+Departments play a crucial role in organizational development for managing support tickets efficiently. Departments ensure organizational structure, ticket routing, access control & visibility, automation rules, reporting & analytics, customization & autoresponses.
 
 
 </p>
@@ -66,7 +66,7 @@ Departments play a crucial organizational role in managing support tickets effic
 
 </p>
 <p>
-Teams serve a different but complementary purpose to Departments. While departments organize tickets by category or function, Teams are used to manage agent collaboration across departments. Teams provide Cross-Department Collaboration, Granular Agent Assignment, Permission & Access Management, Workload Distribution, & Improved Collaboration. 
+Teams serve a different but complementary purpose to Departments. While Departments organize tickets by category or function, Teams are used to manage agent collaboration across Departments. Teams provide cross-department collaboration, Granular Agent Assignment, Permission & Access Management, Workload Distribution, & Improved Collaboration. 
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Teams serve a different but complementary purpose to Departments. While departme
 
 </p>
 <p>
-Users are the individuals who create support tickets — typically your customers, clients, or end-users. They are the ones seeking help, not the staff responding to tickets. Users can Submit Support Requests, Track Ticket Status, Receive Notifications, & have User Profiles & History. 
+Users are the individuals who create support tickets — typically the customers, clients, or end-users. Users are the ones seeking help, not the staff responding to tickets. Users can submit support requests, track ticket status, receive notifications, and have user profiles & history. 
 
 
 </p>
@@ -93,7 +93,7 @@ Users are the individuals who create support tickets — typically your customer
 
 </p>
 <p>
- Agents (Staff Members) are the people who manage and respond to support tickets or internal support personnel. The primary purposes of Agents is Responding to Tickets, Ticket Management, User Support & Respectful Communication, Departmental Roles, Permissions / Access Control, & Internal Collaboration.
+ Agents (staff members) are those who manage and respond to support tickets, also known as Internal Support Personnel. The primary purposes of Agents is Responding to Tickets, Ticket Management, User Support & Respectful Communication, Departmental Roles, Permissions / Access Control, & Internal Collaboration.
 
 
 </p>
@@ -108,7 +108,7 @@ Users are the individuals who create support tickets — typically your customer
 
 </p>
 <p>
-Service Level Agreements (SLAs) are used to define and enforce response and resolution timeframes for support tickets. They help ensure that tickets are addressed within acceptable time limits, improving accountability and customer satisfaction. The purposes of SLAs consist of Time-Based Expectations, Prioritization, Automation & Escalation, & Performance Tracking.
+Service Level Agreements (SLAs) are used to define and enforce response and resolution timeframes for support tickets. They help ensure that tickets are addressed within acceptable time limits, improving accountability and customer satisfaction. The purposes of SLAs consist of time-based expectations, prioritization, automation & escalation, & performance tracking.
 </p>
 <br />
 
@@ -122,6 +122,6 @@ Service Level Agreements (SLAs) are used to define and enforce response and reso
 
 </p>
 <p>
- Help Topics are used to categorize incoming tickets based on the type of issue or request. They improve ticket organization, automate workflow, and streamline support processes from the moment a ticket is created. Help Topics organize Ticket Categorization, Automation of Ticket Handling, Customized User Experience, Routing & Escalation, Reporting & Metrics.
+ Help Topics are used to categorize incoming tickets based on the type of issue or request. They improve ticket organization, help automate workflow, and streamline support processes from the moment a ticket is created. Help Topics also organize ticket categorization, automation of ticket handling, customized user experience, routing & escalation, reporting & metrics.
 </p>
 <br />
